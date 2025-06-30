@@ -1,0 +1,29 @@
+Functional Source License 1.0.0
+
+Copyright (c) 2025 Readshift
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, and self-host the Software, subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   The Software may not be used, in whole or in part, for commercial purposes.
+   Commercial purposes include, but are not limited to: providing the Software
+   as a service, using the Software to provide commercial services, or using
+   the Software in any business, enterprise, or revenue-generating activity.
+
+2. **No Distribution or Hosting for Others**  
+   The Software may not be redistributed, sublicensed, or used to host a service
+   for others, whether or not a fee is charged, without express written permission
+   from the copyright holder.
+
+3. **Modifications**  
+   You may modify the Software for personal or internal use only.  
+   Any public forks or modifications must retain this license and include
+   prominent notice of changes.
+
+4. **Disclaimer of Warranty**  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+   IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR LIABILITY.
+
+For commercial licensing or questions, contact: team@readshift.net
